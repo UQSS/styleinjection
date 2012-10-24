@@ -1,0 +1,11 @@
+#leftcol_pt {
+	width: 100px;
+	float: left;
+	background-color: blue;
+}
+
+#rightcol_pt {
+	width: 100px;
+	float: left;
+	background-color: red;
+}
